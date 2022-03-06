@@ -1,0 +1,35 @@
+Given array is  1,42,17,523,892,980,5,9,2
+Here are the odd numbers in the array found using Anonymous function:
+1
+17
+523
+5
+9
+Here are the odd numbers in the array found using IIFE function:
+1
+17
+523
+5
+9
+Given Array is  sudheer,lavish,guvi,javascript
+Title case Converted array using Anonymous function:  Sudheer,Lavish,Guvi,Javascript
+Title case Converted array using IIFE function:  Sudheer,Lavish,Guvi,Javascript
+Given array is,  1,42,17,523,892,980,5,9,2
+Sum using anonymous function is  2471
+Sum using IIFE function 2471
+Given array is,  1,42,17,523,892,980,5,9,2
+Prime numbers of given array using Anonymous function are, 1,17,523,5,2
+Prime numbers of given array using IIFE function are,  1,17,523,5,2
+Given array is  civic,Sudheer,Civic,reviver,REFER,html,css
+Palindromes in the given array found using anonymous function are,  civic,Civic,reviver,REFER
+Palindromes in the given array found using IIFE function are,  civic,Civic,reviver,REFER
+Median of array 1,21,980,3925,10203 is 500.5 using Anonymous function
+Median of array 11029,2819,805,92,1 is 1812 using Anonymous function
+Median of array 1,21,980,3925,10203 is 500.5 using IIFE function
+Median of array 11029,2819,805,92,1 is 1812 using IIFE function
+Given array is  1,83,1,73,94,83,5
+Array after removing duplicates using Anonymous function: 1,83,73,94,5
+Array after removing duplicates using IIFE function:  1,83,73,94,5
+Given array is  (5) [1, 2, 3, 4, 5]
+Array after rotated 2 times is, 4,5,1,2,3 using Anonymous function
+ 

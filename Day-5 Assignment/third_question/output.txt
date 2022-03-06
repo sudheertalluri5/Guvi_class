@@ -1,0 +1,15 @@
+Given array is  1,42,17,523,892,980,5,9,2
+Here are the odd numbers in the array found using Arrow function:
+1
+17
+523
+5
+9
+Given Array is  sudheer,lavish,guvi,javascript
+Title case Converted array using Arrow function:  Sudheer,Lavish,Guvi,Javascript
+Given array is,  1,42,17,523,892,980,5,9,2
+Sum using arrow function is  2471
+Given array is,  1,42,17,523,892,980,5,9,2
+Prime numbers of given array using arrow function are, 1,17,523,5,2
+Given array is  civic,Sudheer,Civic,reviver,REFER,html,css
+Palindromes in the given array found using arrow function are,  civic,Civic,reviver,REFER
